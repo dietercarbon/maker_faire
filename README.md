@@ -1,0 +1,1 @@
+Hier befinden sich Ampel-Programme in Micropython für Raspberry Pi Pico von einfacher Ampel mit nur 3 LEDs bis zur kombinierten Auto-Fussgänger-Ampel mit Anforderung und Anforderungs-Bestätigung, umgesetzt mit Anforderungs-Interrupt. 
